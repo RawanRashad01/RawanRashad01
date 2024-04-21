@@ -11,7 +11,7 @@
 
 - 🏢 I'm a Senior Systems and Biomedical Engineering Student
 - 👨‍💻 I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 I'm interested in deep learning , machine learning , data analysis and  web development.
+- 💬 I'm interested in VR, deep learning , machine learning , data analysis and  web development.
 - 💻 Currently, I am open to joining an internship.
 
 ### Connect with Me :
